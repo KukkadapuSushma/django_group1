@@ -1,2 +1,3 @@
 # django_group1
-Only team leads of 4 groups - Django
+
+All members of group1 - Django
