@@ -1,0 +1,67 @@
+\documentclass{beamer}
+%
+% Choose how your presentation looks.
+%
+% For more themes, color themes and font themes, see:
+% http://deic.uab.es/~iblanes/beamer_gallery/index_by_theme.html
+%
+\mode<presentation>
+{
+  \usetheme{default}      % or try Darmstadt, Madrid, Warsaw, ...
+  \usecolortheme{default} % or try albatross, beaver, crane, ...
+  \usefonttheme{default}  % or try serif, structurebold, ...
+  \setbeamertemplate{navigation symbols}{}
+  \setbeamertemplate{caption}[numbered]
+} 
+
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+
+\title[Your Short Title]{Employment-Oriented social networking application}
+\author{Django project-Group-1}
+\date{29-12-2016}
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+% Uncomment these lines for an automatically generated outline.
+%\begin{frame}{Outline}
+%  \tableofcontents
+%\end{frame}
+\section{Modules}
+
+\begin{frame}{}
+
+\begin{itemize}
+  \item Organisation @ https://github.com/bvrit-wise-django-team
+  \item Travis CI
+  \item Django 1.10
+  \item python 3+ version
+\end{itemize}
+
+
+
+\end{frame}
+
+
+\section{Modules}
+
+\begin{frame}{Modules}
+
+\begin{itemize}
+  \item Login and TPO module (TEAM 2)
+  \item Student module (TEAM 3)
+  \item Faculty module (TEAM 4)
+  \item Resume Builder (TEAM 1)
+\end{itemize}
+
+
+
+\end{frame}
+
+
+
+
+\end{document}
