@@ -61,7 +61,15 @@
 
 \end{frame}
 
-
+\section{Student module(TEAM 3)}
+\begin{frame}{Student module(TEAM 3)}
+\begin{itemize}
+\item Editing student profile
+\item Eligibility criteria to companies
+\item Company Details
+\item Rating student skills by faculty
+\end{itemize}
+\end{frame}
 
 
 \end{document}
