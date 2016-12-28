@@ -72,4 +72,26 @@
 \end{frame}
 
 
+\section{Student module(TEAM 3)}
+\begin{frame}{Student module(TEAM 3)}
+\begin{itemize}
+\item Editing student profile
+\item Eligibility criteria to companies
+\item Company Details
+\item Rating student skills by faculty
+\end{itemize}
+\end{frame}
+
+
+\section{Faculty module(TEAM 4)}
+\begin{frame}{Faculty module(TEAM 4)}
+\begin{itemize}
+  
+  \item Access to all student profiles
+  \item Viewing all student details. 
+  \item Remarks
+  
+\end{itemize}
+\end{frame}
+
 \end{document}
