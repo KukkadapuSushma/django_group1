@@ -60,7 +60,17 @@
 
 
 \end{frame}
+\section{Resume-Builder(TEAM 1)}
 
+\begin{frame}{Resume-Builder(TEAM 1)}
+\begin{itemize}
+
+   \item Accessing data from student details
+   \item Inbuilt easy-pdf or build-pdf function to generate resume
+   \item Option to download resume (pdf file)
+ 
+\end{itemize}
+\end{frame}
 \section{Student module(TEAM 3)}
 
 \begin{frame}{Student module(TEAM 3)}
@@ -75,7 +85,7 @@
 
 \begin{frame}{login and TPO module(TEAM 2)}
 \begin{itemize}
-   \item login for students,faculty
+   \item login for students, faculty, admin
    \item  accessing TPO  
    \item placement Details
  
