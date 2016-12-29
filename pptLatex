@@ -60,6 +60,16 @@
 
 
 \end{frame}
+\section{Login and TPO module(TEAM 2)}
+
+\begin{frame}{Login and TPO module(TEAM 2)}
+\begin{itemize}
+   \item Login for students, faculty, admin
+   \item TPO  
+   \item Placement Details
+ 
+\end{itemize}
+\end{frame}
 \section{Resume-Builder(TEAM 1)}
 
 \begin{frame}{Resume-Builder(TEAM 1)}
@@ -81,17 +91,6 @@
    \item Rating student skills by faculty
 \end{itemize}
 \end{frame}
-\section{login and TPO module(TEAM 2)}
-
-\begin{frame}{login and TPO module(TEAM 2)}
-\begin{itemize}
-   \item login for students, faculty, admin
-   \item  accessing TPO  
-   \item placement Details
- 
-\end{itemize}
-\end{frame}
-
 \section{Faculty module(TEAM 4)}
 
 \begin{frame}{Faculty module(TEAM 4)}
